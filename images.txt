@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nginx:latest
-gitlab-runner:latest
+gitlab/gitlab-runner:latest
