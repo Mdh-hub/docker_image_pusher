@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nginx:latest
 #gitlab/gitlab-runner:latest
-nginx:1.14
+#nginx:1.14
+nginx:1.15
