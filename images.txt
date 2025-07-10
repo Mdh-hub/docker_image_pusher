@@ -8,4 +8,4 @@
 #gitlab/gitlab-runner:latest
 #nginx:1.14
 #nginx:1.15
-wnameless/oracle-xe-11g
+sath89/oracle-ee-11g
